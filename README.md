@@ -1,10 +1,73 @@
-![TicTacToe](https://socialify.git.ci/avinashkranjan/TicTacToe/image?description=1&descriptionEditable=%20TicTacToe%20%E2%9D%8C%E2%AD%95%2C%20A%20Classic%20Game%20Build%20with%20Python.&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Light)
+Sure! Here's a sample `README.md` file you can use for your Tic Tac Toe project. You can modify it based on the features or personalizations you add later:
 
-![Alt](https://repobeats.axiom.co/api/embed/942749de9d2c5ae4d915a48d7640e4a780f626a1.svg "Repobeats analytics image")
+---
 
-# Release
-Check out the latest Release [here](https://github.com/avinashkranjan/TicTacToe/releases/tag/v1.0.0)
+```markdown
+# Tic Tac Toe 🎮
 
-## 🙏 Support
+A simple and interactive Tic Tac Toe game built with Python. Play against another player in the terminal or enhance it to support AI or GUI-based interfaces!
 
-Show your support to the project. Don't forget to leave a star ⭐️ while you are at it.
+## 🔧 Features
+
+- Two-player game
+- Text-based user interface
+- Input validation
+- Win/draw detection
+
+## 📁 Project Structure
+
+```
+
+TicTacToe/
+├── main.py
+├── README.md
+└── ...
+
+````
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/VarshithChand/tic-tok-toe.git
+cd tic-tok-toe
+````
+
+### 2. Run the game
+
+Make sure you have Python installed. Then:
+
+```bash
+python main.py
+```
+
+## 🛠 Requirements
+
+* Python 3.x
+
+## 🧠 How to Play
+
+* The game is played on a 3x3 grid.
+* Player 1 is `X`, Player 2 is `O`.
+* Players take turns marking a square.
+* The first player to get 3 of their marks in a row (vertically, horizontally, or diagonally) wins.
+* If all 9 squares are filled and no player has 3 in a row, the game ends in a draw.
+
+## 📷 Screenshots
+
+*Add screenshots or GIFs here if you want.*
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+## 🙋‍♂️ Author
+
+* [Your Name](https://github.com/RAVILLAYASWARDHAN)
+```
+
+---
+
+You can copy this content and save it as a file named `README.md` in your project folder. Want to include instructions for adding AI or GUI later?
+```
